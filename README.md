@@ -5,7 +5,7 @@
 [maptalks.three](https://github.com/maptalks/maptalks.three)
 # 效果
 
-![demo](https:qiniu.hanxi.site/images/20220221161445.png)
+![截图](http://qiniu.hanxi.site/images/%25E6%2588%25AA%25E5%259B%25BE.png)
 
 # 运行
 
